@@ -1,6 +1,6 @@
 <ul class="slds-col slds-size--1-of-1">
   <li class="slds-size--1-of-3 slds-show--inline-block">
-      <lightning:card variant="narrow" class="slds-m-around--small">
+      <lightning:card variant="narrow" class="slds-m-around--small slds-card_boundary">
           <aura:set attribute="title">
               Isabel McCrory
           </aura:set>
@@ -18,7 +18,7 @@
           </div>
       </lightning:card></li>
   <li class="slds-size--1-of-3 slds-show--inline-block">
-      <lightning:card variant="narrow" class="slds-m-around--small">
+      <lightning:card variant="narrow" class="slds-m-around--small slds-card_boundary">
           <aura:set attribute="title">
               Shanti Althaus
           </aura:set>
